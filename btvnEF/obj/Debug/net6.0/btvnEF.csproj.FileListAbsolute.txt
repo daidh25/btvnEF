@@ -1,0 +1,14 @@
+D:\ASP\Asp.net\btvnEF\btvnEF\bin\Debug\net6.0\btvnEF.deps.json
+D:\ASP\Asp.net\btvnEF\btvnEF\bin\Debug\net6.0\btvnEF.runtimeconfig.json
+D:\ASP\Asp.net\btvnEF\btvnEF\bin\Debug\net6.0\btvnEF.dll
+D:\ASP\Asp.net\btvnEF\btvnEF\bin\Debug\net6.0\btvnEF.pdb
+D:\ASP\Asp.net\btvnEF\btvnEF\obj\Debug\net6.0\btvnEF.csproj.AssemblyReference.cache
+D:\ASP\Asp.net\btvnEF\btvnEF\obj\Debug\net6.0\btvnEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Asp.net\btvnEF\btvnEF\obj\Debug\net6.0\btvnEF.AssemblyInfoInputs.cache
+D:\ASP\Asp.net\btvnEF\btvnEF\obj\Debug\net6.0\btvnEF.AssemblyInfo.cs
+D:\ASP\Asp.net\btvnEF\btvnEF\obj\Debug\net6.0\btvnEF.csproj.CoreCompileInputs.cache
+D:\ASP\Asp.net\btvnEF\btvnEF\obj\Debug\net6.0\btvnEF.dll
+D:\ASP\Asp.net\btvnEF\btvnEF\obj\Debug\net6.0\refint\btvnEF.dll
+D:\ASP\Asp.net\btvnEF\btvnEF\obj\Debug\net6.0\btvnEF.pdb
+D:\ASP\Asp.net\btvnEF\btvnEF\obj\Debug\net6.0\btvnEF.genruntimeconfig.cache
+D:\ASP\Asp.net\btvnEF\btvnEF\obj\Debug\net6.0\ref\btvnEF.dll
